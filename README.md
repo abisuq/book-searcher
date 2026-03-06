@@ -1,12 +1,12 @@
 # Book Searcher
 
-[![GitHub stars](https://img.shields.io/github/stars/book-searcher-org/book-searcher)](https://github.com/book-searcher-org/book-searcher/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/book-searcher-org/book-searcher)](https://github.com/book-searcher-org/book-searcher/network)
-[![Release](https://img.shields.io/github/release/book-searcher-org/book-searcher)](https://github.com/book-searcher-org/book-searcher/releases)
-[![GitHub issues](https://img.shields.io/github/issues/book-searcher-org/book-searcher)](https://github.com/book-searcher-org/book-searcher/issues)
-[![GitHub license](https://img.shields.io/github/license/book-searcher-org/book-searcher)](https://github.com/book-searcher-org/book-searcher/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/zu1k/book-searcher)](https://github.com/zu1k/book-searcher/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/zu1k/book-searcher)](https://github.com/zu1k/book-searcher/network)
+[![Release](https://img.shields.io/github/release/zu1k/book-searcher)](https://github.com/zu1k/book-searcher/releases)
+[![GitHub issues](https://img.shields.io/github/issues/zu1k/book-searcher)](https://github.com/zu1k/book-searcher/issues)
+[![GitHub license](https://img.shields.io/github/license/zu1k/book-searcher)](https://github.com/zu1k/book-searcher/blob/master/LICENSE)
 
-#### [中文版](https://github.com/zu1k/bs-core/blob/master/README_zh.md)
+#### [中文版](https://github.com/zu1k/book-searcher/blob/master/README_zh.md)
 
 Easy and blazing-fast book searcher, create and search your private library.
 
